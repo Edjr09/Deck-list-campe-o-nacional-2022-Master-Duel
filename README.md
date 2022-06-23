@@ -21,5 +21,17 @@ Deck Principal
  - 3x [Guardião Koa'ki Meiru](https://yugioh.fandom.com/wiki/Koa%27ki_Meiru_Guardian)
  - 3x [Dragão de Blocos](https://yugioh.fandom.com/wiki/Block_Dragon)
  - 1x [Gigantes](https://yugioh.fandom.com/wiki/Gigantes?so=search)
- - 2x [Xenoguitarra da Banda de Rock](https://yugioh.fandom.com/wiki/Rock_Band_Xenoguitar)
+ - 3x [Xenoguitarra da Banda de Rock](https://yugioh.fandom.com/wiki/Rock_Band_Xenoguitar)
+ - 2x [Cruzador de Engajamento](https://yugioh.fandom.com/wiki/Tackle_Crusader)
+ - 2x [Rochanimados Travesso-Guris](https://yugioh.fandom.com/wiki/Prank-Kids_Rocksies)
+ - 1x [Gotanimados Travesso-Guris](https://yugioh.fandom.com/wiki/Prank-Kids_Dropsies)
+ - 2x [Luz de Sekka](https://yugioh.fandom.com/wiki/Sekka's_Light?so=search)
+ - 2x [Chamado da Cova](https://yugioh.fandom.com/wiki/Called_by_the_Grave?so=search)
 
+Extra Deck
+
+ - 1x [Ressurgido Adamancipador - Raptita](https://yugioh.fandom.com/wiki/Adamancipator_Risen_-_Raptite)
+ - 1x [Ressurgido Adamancipador - Dragita](https://yugioh.fandom.com/wiki/Adamancipator_Risen_-_Dragite)
+ - 1x [Miau-Miau-Mu dos Travesso-Guris](https://yugioh.fandom.com/wiki/Prank-Kids_Meow-Meow-Mu)
+ - 1x [Guricoricó dos Travesso-Guris](https://yugioh.fandom.com/wiki/Prank-Kids_Dodo-Doodle-Doo)
+ - 
