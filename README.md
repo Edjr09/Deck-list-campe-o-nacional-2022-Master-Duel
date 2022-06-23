@@ -13,6 +13,7 @@ Deck Principal
  - 3x [Maxx "C"](https://yugioh.fandom.com/pt-br/wiki/Maxx_%22C%22)
  - 3x [Florescer de Cinzas & Primavera Feliz](https://yugioh.fandom.com/pt-br/wiki/Ash_Blossom_%26_Joyous_Spring?so=search)
  - 1x [Nibiru, o Ser Primitivo](https://yugioh.fandom.com/wiki/Nibiru,_the_Primal_Being?so=search)
+ - 1x [Besta Fantasma Mecha O-Leão](https://yugioh.fandom.com/wiki/Mecha_Phantom_Beast_O-Lion)
  - 3x [Pesquisadora Adamancipador](https://yugioh.fandom.com/wiki/Adamancipator_Researcher)
  - 2x [Analista Adamancipador](https://yugioh.fandom.com/wiki/Adamancipator_Researcher)
  - 3x [Caçador Adamancipador](https://yugioh.fandom.com/wiki/Adamancipator_Seeker)
@@ -38,3 +39,10 @@ Extra Deck
  - 1x [Baronne de Fleur](https://yugioh.fandom.com/wiki/Baronne_de_Fleur?so=search)
  - 1x [Valente de Granito](https://yugioh.fandom.com/wiki/Gallant_Granite)
  - 1x [Cristron Halqifibrax](https://yugioh.fandom.com/wiki/Crystron_Halqifibrax?so=search) *limitado a 1*
+ - 1x [Link Aranha](https://yugioh.fandom.com/wiki/Link_Spider?so=search)
+ - 1x [Portador da União](https://yugioh.fandom.com/wiki/Union_Carrier?so=search)
+ - 1x [Apollousa, o Arco da Deusa](https://yugioh.fandom.com/wiki/Apollousa,_Bow_of_the_Goddess?so=search)
+ - 1x [I:P Mascarena](https://yugioh.fandom.com/wiki/I:P_Masquerena?so=search)
+ - 1x [Cavaleiro do Pesadelo Unicórnio](https://yugioh.fandom.com/wiki/Knightmare_Unicorn?so=search)
+ - 1x [Cavaleira do Pesadelo Fênix](https://yugioh.fandom.com/wiki/Knightmare_Phoenix?so=search)
+ - 1x [Acessocodificar Transmissor](https://yugioh.fandom.com/wiki/Accesscode_Talker?so=search)
