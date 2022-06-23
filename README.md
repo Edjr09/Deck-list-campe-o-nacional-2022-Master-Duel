@@ -46,3 +46,6 @@ Extra Deck
  - 1x [Cavaleiro do Pesadelo Unicórnio](https://yugioh.fandom.com/wiki/Knightmare_Unicorn?so=search)
  - 1x [Cavaleira do Pesadelo Fênix](https://yugioh.fandom.com/wiki/Knightmare_Phoenix?so=search)
  - 1x [Acessocodificar Transmissor](https://yugioh.fandom.com/wiki/Accesscode_Talker?so=search)
+
+
+### [Link para explicação e replay de partidas do deck](https://www.youtube.com/watch?v=T_ezxll3ldY)
