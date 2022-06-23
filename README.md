@@ -11,4 +11,5 @@ Deck Principal
 
  - 1x [Notável Espada da Destruição do Dragão](https://yugioh.fandom.com/pt-br/wiki/Dragon_Buster_Destruction_Sword)
  - 3x [Maxx "C"](https://yugioh.fandom.com/pt-br/wiki/Maxx_%22C%22)
+ - 3x [Florescer de Cinzas & Primavera Feliz](https://yugioh.fandom.com/pt-br/wiki/Ash_Blossom_%26_Joyous_Spring?so=search)
  - 
