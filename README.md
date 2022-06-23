@@ -8,5 +8,4 @@
 ## Deck de Adamancipator (banlist vigente: Maio de 2022)
 
 1x [Notável Espada da Destruição do Dragão](https://yugioh.fandom.com/pt-br/wiki/Dragon_Buster_Destruction_Sword)
-
 3x [Maxx "C"](https://yugioh.fandom.com/pt-br/wiki/Maxx_%22C%22)
